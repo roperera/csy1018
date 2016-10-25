@@ -8,9 +8,10 @@ body {
   line-height: 21px;
   background-color: rgb(129, 163, 191);
   padding: 30px;
-  color: #656
+  color: #920
 }
 
 h1, h2, h3 {
   margin-bottom: 21px;
+  color: #34e
 }
