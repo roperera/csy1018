@@ -1,0 +1,38 @@
+h1{
+  font-size: 6em;
+  font-family: sans-serif;
+}
+
+h2{
+  font-size: 2em;
+  font-family: sans-serif;
+}
+
+body{
+  background: grey;
+  text-align: center;
+}
+
+p{
+  font-size: 1em;
+  font-family: sans-serif;
+}
+
+button{
+  flex: 1 1 auto;
+  flex-grow: 1;
+}
+
+.footer{
+  padding: 1em;
+  background: blue;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.nav{
+  order: -1;
+  padding: 1em;
+  background: RGB(149,194, 213);
+  font-family: sans-serif;
+}

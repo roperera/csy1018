@@ -1,0 +1,38 @@
+html, body {
+  font-family: sans-serif;
+  background: #1966D2
+}
+
+form {
+  border: solid black 5px;
+  padding: 1em;
+  width: 100%;
+  min-width: 45em;
+  max-width:45em;
+  height: 100%;
+  min-height: 45em;
+  max-height: 45em;
+}
+
+.form-title {
+  margin-top: 0;
+}
+
+.form-group {
+  margin-bottom: 0.5em;
+  font-size: 32px;
+}
+
+textarea {
+  width: 96%;
+  resize: none;
+  height: 100%;
+
+}
+
+fieldset {
+  width: inherit;
+}
+.option-list {
+  display: inline-block;
+}
